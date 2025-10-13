@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="weasel.png" width="360" alt="WEAStack — Web Environment Architecture">
+  <img src="weasel.png" width="180" alt="WEAStack — Web Environment Architecture">
 </p>
 <p align="center"><b>Web Environment Architecture for Services Executing Locally</b></p>
 <p align="center"><i>Local-first. Cloudflare native. Create → Build → Publish.</i></p>
@@ -54,10 +54,10 @@ A nod to **Cloudflare’s** ecosystem of speed and reliability.
 
 | Without WEASuite | With WEASuite |
 | :-- | :-- |
-| Word + WordPress + Hosting | All-in-one workspace |
+| Editor + WordPress + Hosting | All-in-one workspace |
 | Constant patching | Zero-server deployment |
 | Internet required | Full offline mode |
-| Formatting manually | Automated APA + PDF |
+| Formatting manually | Automated + PDF |
 | Multiple tools | Unified Create → Build → Publish flow |
 
 ---
@@ -76,10 +76,10 @@ Although WEASuite itself is closed-source, we provide:
 ## 🚀 Coming Soon
 
 * Public beta for macOS, Windows, Linux, iOS, and Android  
-* [themes & templates](../WEASuiteTemplates)
-
+* [Modules](../../../WEASuite-Modules)
+* [Templates](../../../WEASuite-Templates)
 ---
 
 **Last Updated:** 2025-10-13  
-**Maintainer:** `0x013A`  
+**Maintainer:** `0x013A-uk`  
 **License:** Proprietary (with open templates under MIT)
