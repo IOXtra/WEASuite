@@ -1,10 +1,17 @@
 <p align="center">
   <img src="weasel.png" width="180" alt="WEAStack — Web Environment Architecture">
+<p align="center">
+  <b>WEASuite — The Workspace for W.E.A.S.E.L.</b><br>
+  <i>Web Environment Architecture for Services Emulated Locally</i>
 </p>
-<p align="center"><b>Web Environment Architecture for Services Emulated Locally</b></p>
-<p align="center"><i>Local-first. Create → Build → Publish. No Servers Required</i></p>
+
+<p align="center">
+  <em>Local-first. Write → Build → Publish — without servers.</em>
+</p>
+
 
 ---
+
 
 # 🧰 WEASuite — Create → Build → Publish
 
