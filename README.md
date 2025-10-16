@@ -15,7 +15,7 @@
 
 # 🧰 WEASuite — Create → Build → Publish
 
-**WEASuite** is the graphical companion to [**WEAStack**](../../../WEAStack), combining writing, note-taking, research, and web publishing into one environment.
+**WEASuite** is the graphical and cli built on [**WEAStack**](../../../WEAStack), combining writing, note-taking, research, and web publishing into one environment.
 
 Whether you’re a **student**, **writer**, or **developer**, WEASuite turns complex publishing workflows into a single, offline-first flow.
 
