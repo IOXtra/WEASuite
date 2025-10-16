@@ -96,7 +96,7 @@ Although WEASuite itself is closed-source, we provide:
 ## Get Involved
 - ⭐ Star the repos to follow progress  
 - 💬 Join discussions in each repo  
-- ☕ [Buy me a coffee](https://buymeacoffee.com/0x013a.uk) to support development
+- ☕ [Buy me a coffee](https://buymeacoffee.com/ioxtra) to support development
 
 ---
 **Last Updated:** 2025-10-13  
