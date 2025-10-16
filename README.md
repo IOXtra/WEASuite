@@ -32,7 +32,7 @@ Whether you’re a **student**, **writer**, or **developer**, WEASuite turns com
 ## 🎓 Editions
 
 | Edition | Features |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | **Core** | Free. Markdown, Notes, Write, Deploy basics |
 | **Student** | APA formatting, AI Assist, PDF export |
 | **Pro / Business** | CMS, Deploy, Commerce |
