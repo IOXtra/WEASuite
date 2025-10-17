@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="weasel.png" width="180" alt="WEAStack — Web Environment Architecture">
+  <img src="weasel.png" width="180" alt="WEAStack™ — Web Environment Architecture">
 <p align="center">
-  <b>WEASuite — The Workspace for W.E.A.S.E.L.</b><br>
-  <i>Web Environment Architecture for Services Emulated Locally</i>
+  <b>WEASuite™ — The Workspace for W.E.A.S.E.L.L.™</b><br>
+  <i>Web Environment Architecture for Servicing Emulated Local Layers</i>
 </p>
 
 <p align="center">
   <em>Local-first. Write → Build → Publish — without servers.</em>
 </p>
 
-
+> **WEASuite™** provides a unified local-first environment for writing, building, and publishing web projects using WEAStack™ technology.
 ---
 
 
-# 🧰 WEASuite — Create → Build → Publish
+# 🧰 WEASuite™ — Create → Build → Publish
 
-**WEASuite** is the graphical and cli built on [**WEAStack**](../../../WEAStack), combining writing, note-taking, research, and web publishing into one environment.
+**WEASuite™** is the graphical and CLI built on [**WEAStack™**](../../../WEAStack), combining writing, note-taking, research, and web publishing into one environment.
 
-Whether you’re a **student**, **writer**, or **developer**, WEASuite turns complex publishing workflows into a single, offline-first flow.
+Whether you’re a **student**, **writer**, or **developer**, WEASuite™ turns complex publishing workflows into a single, offline-first flow.
 
 ---
 
@@ -44,7 +44,7 @@ Upgrades scale automatically with project size and usage.
 
 ## 🧠 Built On
 
-* **WEAStack** — modular core framework  
+* **WEAStack™** — modular core framework  
 * **Cloudflare** — KV, R2, D1 emulation  
 * **Local-first design** — work anywhere, stay productive offline  
 
@@ -53,13 +53,12 @@ Upgrades scale automatically with project size and usage.
 ## 🦦 Our Mascot
 
 Meet the amber-orange **Weasel** — agile, curious, and efficient.  
-A nod to **Cloudflare’s** ecosystem of speed and reliability.
 
 ---
 
 ## 💡 Why It Matters
 
-| Without WEASuite | With WEASuite |
+| Without WEASuite™ | With WEASuite™ |
 | :-- | :-- |
 | Editor + WordPress + Hosting | All-in-one workspace |
 | Constant patching | Zero-server deployment |
@@ -71,12 +70,12 @@ A nod to **Cloudflare’s** ecosystem of speed and reliability.
 
 ## 🔓 What’s Open
 
-Although WEASuite itself is closed-source, we provide:
+Although WEASuite™ itself is closed-source, we provide:
 
 * Markdown templates  
 * Example Cloudflare Worker modules  
 * Theme and deploy scripts for Pages/S3  
-* Docs & guides for integrating WEA workflows
+* Docs & guides for integrating workflows
 
 ---
 
@@ -88,7 +87,7 @@ Although WEASuite itself is closed-source, we provide:
 
 ---
 
-> **W.E.A.S.E.L.** — *Web Environment Architecture for Services Emulated Locally*  
+> **W.E.A.S.E.L.L.™** — *Web Environment Architecture for Servicing Emulated Local Layers*  
 > A local-first Cloudflare-style environment to build, test, and publish your work.
 
 ---
@@ -99,6 +98,10 @@ Although WEASuite itself is closed-source, we provide:
 - ☕ [Buy me a coffee](https://buymeacoffee.com/ioxtra) to support development
 
 ---
-**Last Updated:** 2025-10-13  
+**Last Updated:** 2025-10-17  
 **Maintainer:** `0x013A-uk`  
 **License:** Proprietary (with open templates under MIT)
+
+---
+
+> — The W.E.A.S.E.L.L.™ Project. © 2025 IOXtra Limited. All rights reserved.
